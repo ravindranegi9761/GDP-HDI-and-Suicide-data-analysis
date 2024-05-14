@@ -1,5 +1,5 @@
 # GDP-HDI-and-Suicide-data-analysis
-Insight-
+# Insight-
 
 1-GDP and HDI are increasing every passing year from 1990 to 2021
 2-the suicide rate is decreasing every passing year
